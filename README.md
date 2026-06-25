@@ -47,7 +47,7 @@ The dataset includes information such as:
 - Daily Booking Trend
 - Booking Status Distribution
 
-![Overall](Images/Overall.png)
+![Overall](Images/Revenue_Data.png)
 
 ---
 
