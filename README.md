@@ -58,7 +58,7 @@ The dataset includes information such as:
 - Average Distance Travelled
 - Total Distance Travelled
 
-![Vehicle Type](Images/Vehicle_Type.png)
+![Vehicle Type](Images/Vehicle_Types.png)
 
 ---
 
@@ -68,7 +68,7 @@ The dataset includes information such as:
 - Distance Travelled by Date
 - Top Customers
 
-![Revenue](Images/Revenue.png)
+![Revenue](Images/Revenue_Data.png)
 
 ---
 
